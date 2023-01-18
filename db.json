@@ -1,22 +1,239 @@
 {
-  "books": [
+  "product": [
     {
       "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "category": "mens",
+      "price": "12000",
+      "offerPrice": "10000",
+      "brand": "Lacoste",
+      "title": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "ratings": "4",
+      "totalRatings": "8",
+      "quntity": "23",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
     },
     {
       "id": 2,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "hello": "yakshith"
+      "category": "mens",
+      "price": "15960",
+      "offerPrice": "12400",
+      "brand": "canada goose",
+      "title": "Black Label Langford Down Parka",
+      "ratings": "5",
+      "totalRatings": "34",
+      "quntity": "43",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/8/optimized/12399698_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 3,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 4,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 5,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 6,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 7,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 8,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 9,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 10,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 11,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 12,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 13,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12440210_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 14,
+      "category": "mens",
+      "price": "22000",
+      "offerPrice": "18000",
+      "brand": "Norwegian Wool",
+      "title": "Stretch Down Filled Car Coat",
+      "ratings": "4",
+      "totalRatings": "27",
+      "quntity": "27",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/11789240_fpx.tif?$2014_BROWSE_FASHION$&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+      "id": 15,
+      "category": "mens",
+      "price": "12000",
+      "offerPrice": "10000",
+      "brand": "Lacoste",
+      "title": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "ratings": "4",
+      "totalRatings": "8",
+      "quntity": "23",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userName": "dfsdfsdfkfd",
+      "userId": "dfsd",
+      "displayUrl": "dsfd",
+      "cartItem": [
+        {
+          "id": 15,
+          "category": "mens",
+          "price": "12000",
+          "offerPrice": "10000",
+          "brand": "Lacoste",
+          "title": "Leno-P Slim Fit Wool Crewneck Sweater",
+          "ratings": "4",
+          "totalRatings": "8",
+          "quntity": "23",
+          "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "giverName": "dfdsf",
+      "giverId": "dfs",
+      "message": "ghfgdg",
+      "ratings": "5",
+      "productId": "sdf"
+    }
+  ],
+  "completed": [
+    {
+      "id": 1,
+      "userName": "dfsdfsdfkfd",
+      "userId": "dfsd",
+      "displayUrl": "dsfd",
+      "status": "pending",
+      "cartItem": [
+        {
+          "id": 15,
+          "category": "mens",
+          "price": "12000",
+          "offerPrice": "10000",
+          "brand": "Lacoste",
+          "title": "Leno-P Slim Fit Wool Crewneck Sweater",
+          "ratings": "4",
+          "totalRatings": "8",
+          "quntity": "23",
+          "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+        }
+      ]
     }
   ]
 }
